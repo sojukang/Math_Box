@@ -1,1 +1,1 @@
-### A project that applys codes for math calculations.  
+### A project that provides codes for math calculations.  
