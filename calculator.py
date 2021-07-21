@@ -35,3 +35,10 @@ def factorial(n):
         num = num * n
         n = n - 1
     return num 
+
+def factorial_2(n):
+    sum = 1
+    for i in range(1, n+1):
+        sum = sum * n
+        n = n - 1
+    return sum
